@@ -1,0 +1,6 @@
+{
+  "name": "AirGuard AI - Agentic Hyper-Local Climate Action Platform",
+  "description": "Federated AI climate-action platform detecting hyper-local pollution hotspots, predicting air quality spikes, identifying root causes, and coordinating rapid civic intervention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
